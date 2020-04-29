@@ -26,6 +26,6 @@ interface ICallback {
     fun printCallback(string: String)
 }
 
-fun main(args: Array<String>) {
+fun main() {
     ClassA().helloWorld()
 }

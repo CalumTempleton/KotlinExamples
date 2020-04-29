@@ -20,7 +20,7 @@ class ObservableObject(listener: ValueChangedListener){
     )
 }
 
-fun main(args: Array<String>) {
+fun main() {
     val observableObject = ObservableObject(PrintTextChangedListener())
     observableObject.text = "Howdy!"
     observableObject.text = "How Y'all been?"

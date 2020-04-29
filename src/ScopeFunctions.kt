@@ -11,7 +11,7 @@ import kotlin.random.Random.*
 // is how this object becomes available inside the block and what is the result of the whole
 // expression.
 
-fun main(args: Array<String>) {
+fun main() {
     data class Person(var name: String,
                       var age: Int,
                       var city: String) {

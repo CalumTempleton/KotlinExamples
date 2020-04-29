@@ -3,7 +3,7 @@
 // There are many kinds of null safety operators: Safe Call (?.), Elvis (?:), Safe Call with let (?.let {...}) and
 // Not-null Assertion/Double Bang (!!)
 
-fun main(args: Array<String>) {
+fun main() {
     // Traditionally in Java, a variable could be assigned null. In Kotlin this is not
     // allowed by default to reduce null pointer exceptions. To allow for null to be assigned,
     // we need to make variables nullable or the compile will complain. This is done by using a
