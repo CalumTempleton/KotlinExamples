@@ -33,7 +33,7 @@ fun main() {
 
     /**
      * In the example above, as NetworkingStuff is being passed into MainClass, when testing this
-     * file, NetworkingStuff can be mocked to return whatever is necessary. This is good practise
+     * class, NetworkingStuff can be mocked to return whatever is necessary. This is good practise
      * and works well but can be done using lambdas.
      * ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
      * In the example below, there is no NetworkingStuff class being passed into MainClass. Instead

@@ -1,4 +1,4 @@
-# AndroidExampleApp
+# kotlin Examples
 This repository contains multiple Kotlin examples across different files which can all be run individually.
 
 The examples completed are (alphabetical):
@@ -9,6 +9,5 @@ The examples completed are (alphabetical):
 - Scope Functions (ScopeFunctions.kt)
 
 The examples to be completed are:
-- The Resposity pattern
-- Singleton
+- The Repository pattern
 - Null Safety
